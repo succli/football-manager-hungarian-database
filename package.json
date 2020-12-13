@@ -1,0 +1,27 @@
+{
+  "name": "football-manager-hungarian-database",
+  "version": "1.0.0",
+  "description": "Some scripts and documentation for creating a Hungarian database addon for Football Manager",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/succli/football-manager-hungarian-database.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/succli/football-manager-hungarian-database/issues"
+  },
+  "homepage": "https://github.com/succli/football-manager-hungarian-database#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "json-2-csv": "^3.8.0",
+    "node-fetch": "^2.6.1"
+  }
+}
